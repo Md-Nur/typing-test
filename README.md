@@ -13,7 +13,7 @@ Welcome to the Typing Speed Web Application! This web app is designed to help us
 
 ## Usage
 
-Visit the live Typing Speed Web Application: [https://Md-Nur.github.io/typing-test](https://Md-Nur.github.io/typing-test)
+Visit the live Typing Speed Web Application: [https://typing-speed-test-ochre.vercel.app/](https://typing-speed-test-ochre.vercel.app/)
 
 1. Open the provided link in your preferred web browser.
 
@@ -25,7 +25,7 @@ Visit the live Typing Speed Web Application: [https://Md-Nur.github.io/typing-te
 
 ## Demo
 
-You can see the live demo of the Typing Speed Web Application [here](https://Md-Nur.github.io/typing-test).
+You can see the live demo of the Typing Speed Web Application [here](https://typing-speed-test-ochre.vercel.app/).
 
 ## Logical code
 
